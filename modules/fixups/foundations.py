@@ -231,6 +231,16 @@ class KitFoundation:
 		"default": "1.2"
 	}
 
+	metadata_version_info = {
+		"1.2-release" : {
+			"version" : 1
+		},
+		"1.3-release" : {
+			"version" : 10,
+			"ego-required" : "2.6.0"
+		}
+	}
+
 	release_defs = None
 
 	# KIT SOURCES - kit sources are a combination of overlays, arranged in a python list [ ]. A KIT SOURCE serves as a
