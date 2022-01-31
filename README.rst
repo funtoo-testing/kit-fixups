@@ -5,7 +5,7 @@ This repository holds Funtoo's custom ebuilds, profiles and fixes for branches t
 of branches during their lifespan.
 
 These fix-ups are applied over the Gentoo repository when Funtoo's repository gets generated using the
-merge-scripts [1]_. 
+merge-scripts [1]_.
 
 To Contribute
 -------------
